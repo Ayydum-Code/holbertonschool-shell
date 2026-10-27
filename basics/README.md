@@ -4,3 +4,4 @@
 3-listfiles: lists all files in folder in long format form.
 4-listmorefiles: lists all files, including hidden files.
 5-listfilesdigitonly: Displays the current directory in long format, with user and group ID's only.
+6-firstdirectory: creates a directory in the /tmp directory

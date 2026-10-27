@@ -13,3 +13,4 @@
 12-file_type: prints the type of file located in the /tmp directory
 13-symbolic_link: creates a symlink to /bin/ls.
 14-copy_html: copis all HTML files from the working directory to the parent, but can only copy files that did not exist in parent or were newer versions. 
+15-lets_move: moves all files with uppercase letters to /tmp/u.

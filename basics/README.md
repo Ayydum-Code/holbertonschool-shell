@@ -11,3 +11,4 @@
 10-back: changes the working directory to the previous one.
 11-lists: lists all files from current directory, the parent directory and /boot directory.
 12-file_type: prints the type of file located in the /tmp directory
+13-symbolic_link: creates a symlink to /bin/ls.

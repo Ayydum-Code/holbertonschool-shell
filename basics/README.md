@@ -10,3 +10,4 @@
 9-firstdirdeletion: deletes the my_first_directory from the /tmp directory
 10-back: changes the working directory to the previous one.
 11-lists: lists all files from current directory, the parent directory and /boot directory.
+12-file_type: prints the type of file located in the /tmp directory

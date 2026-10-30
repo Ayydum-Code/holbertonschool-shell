@@ -12,3 +12,4 @@
 11-directories_permissions: Changes execution permissions to all dirctories.
 12-directory_permissions: changes the permissions of a new directory being my_dir to 751.
 13-change_group: Changes ownership of hello file to school.
+14-change_owner_and_group: Changes ownership to vincent and group ownership to staff.

@@ -6,3 +6,4 @@
 5-execute: Changes the execution permissions for the hello file.
 6-multiple_permissions: changes the permissions for multiple users.
 7-everybody: changes the permissions for all users to exectuable. 
+8-James_Bond: changes the permissions for owners and group to nothing, but other users to everything.

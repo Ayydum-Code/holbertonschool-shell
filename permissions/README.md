@@ -11,3 +11,4 @@
 10-mirror_permissions: changes the permissions to follow the permissions inside olleh.
 11-directories_permissions: Changes execution permissions to all dirctories.
 12-directory_permissions: changes the permissions of a new directory being my_dir to 751.
+13-change_group: Changes ownership of hello file to school.

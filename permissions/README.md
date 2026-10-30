@@ -7,3 +7,4 @@
 6-multiple_permissions: changes the permissions for multiple users.
 7-everybody: changes the permissions for all users to exectuable. 
 8-James_Bond: changes the permissions for owners and group to nothing, but other users to everything.
+9-John_Doe: changes permissions for owners, group and other users. 

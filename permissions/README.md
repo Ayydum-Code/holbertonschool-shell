@@ -10,3 +10,4 @@
 9-John_Doe: changes permissions for owners, group and other users. 
 10-mirror_permissions: changes the permissions to follow the permissions inside olleh.
 11-directories_permissions: Changes execution permissions to all dirctories.
+12-directory_permissions: changes the permissions of a new directory being my_dir to 751.
